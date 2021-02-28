@@ -20,7 +20,7 @@ To build Marlin 2.0 you'll need [Building Marlin with PlatformIO for ReArm](http
 
 ## Credits
 
-This fork of Marlin firmware is manteined by Miguel Risco-Castillo [[@mriscoc](https://github.com/mriscoc)] - Peru
+This fork of Marlin firmware is maintained by Miguel Risco-Castillo [[@mriscoc](https://github.com/mriscoc)] - Peru
 
 The current Marlin dev team consists of:
 
