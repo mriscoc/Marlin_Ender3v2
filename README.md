@@ -26,7 +26,11 @@ The current Marlin dev team consists of:
 
  - Scott Lahteine [[@thinkyhead](https://github.com/thinkyhead)] - USA &nbsp; [Donate](https://www.thinkyhead.com/donate-to-marlin) / Flattr: [![Flattr Scott](https://api.flattr.com/button/flattr-badge-small.png)](https://flattr.com/submit/auto?user_id=thinkyhead&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
  - Roxanne Neufeld [[@Roxy-3D](https://github.com/Roxy-3D)] - USA
+ - Keith Bennett [[@thisiskeithb](https://github.com/thisiskeithb)] - USA
+ - Victor Oliveira [[@rhapsodyv](https://github.com/rhapsodyv)] - Brazil
  - Chris Pepper [[@p3p](https://github.com/p3p)] - UK
+ - Jason Smith [[@sjasonsmith](https://github.com/sjasonsmith)] - USA
+ - Luu Lac [[@shitcreek](https://github.com/shitcreek)] - USA
  - Bob Kuhn [[@Bob-the-Kuhn](https://github.com/Bob-the-Kuhn)] - USA
  - João Brazio [[@jbrazio](https://github.com/jbrazio)] - Portugal
  - Erik van der Zalm [[@ErikZalm](https://github.com/ErikZalm)] - Netherlands &nbsp; [![Flattr Erik](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
