@@ -25,6 +25,11 @@ Released versions of this firmware can be found on the [Releases page](https://g
  - [Installing a 3D/BLTouch](https://github.com/mriscoc/Marlin_Ender3v2/wiki/3D-BLTouch)
  - [Color themes](https://github.com/mriscoc/Marlin_Ender3v2/wiki/Color-Themes)
  - [How to use with Octoprint](https://github.com/mriscoc/Marlin_Ender3v2/wiki/Octoprint)
+
+## Community links
+* [Telegram](https://t.me/Ender3v2_Firmware)
+* [Reddit](https://www.reddit.com/r/Ender3v2Firmware) 
+* [Facebook](https://www.facebook.com/groups/ender3v2firmware)
   
 ## Credits
 
